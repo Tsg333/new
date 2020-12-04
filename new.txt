@@ -1,3 +1,4 @@
 this is a file new.txt
 to add a new line for testing fetch/merge. ===edit by local
 test line
+try modify in different line.
