@@ -1,1 +1,2 @@
 this is a file new.txt
+to add a new line for testing fetch/merge.
